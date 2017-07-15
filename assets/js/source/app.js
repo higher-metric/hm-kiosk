@@ -7,11 +7,11 @@
     var eventsApiURL = '/wp-json/wp/v2/events/?_embed&per_page=10',
         postsApiUrl = '/wp-json/wp/v2/posts/?_embed&per_page=10';
 
-    var events = new Vue({
+    new Vue({
         el: '#app',
         data: {
-            eventLocation: '9', // Harris Center, University
-            eventCategory: '', // Orientation
+            eventLocation: '9', // Harris Center
+            eventCategory: '',
             eventsCount: null,
             events: null,
             posts: null

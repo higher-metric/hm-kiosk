@@ -61,7 +61,6 @@
 									</span>
 								</a><!-- /event -->
 							</div><!-- /event-wrapper -->
-
 						</div><!-- /events -->
 
 					</div><!-- /sidebar -->
